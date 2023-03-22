@@ -1,0 +1,35 @@
+header{
+        background-color: rgb(70, 99, 72);
+        text-align: center;
+        color: white;
+    
+}
+
+nav{
+    text-align: center;
+
+}
+footer{
+        background-color: rgb(70, 99, 72);
+        color: white;
+}
+.logo{
+      text-align: start;
+     
+}
+section{
+    text-align: center;
+    background-color: rgb(200, 255, 179)
+}
+.Natiely{
+    font-family: sans-serif;
+}
+.Sarah{
+    font-family: cursive;
+}
+.Eduardo{
+    font-family:Bradley Hand, cursive;
+}
+.Yuri{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
